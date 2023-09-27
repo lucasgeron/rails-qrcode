@@ -73,3 +73,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+# rqrcode [https://github.com/whomwah/rqrcode].
+gem "rqrcode", "~> 2.0"
